@@ -21,17 +21,14 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-  </a>
   <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+   <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
@@ -51,9 +48,13 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   </a>
+  
   <a href="https://antigravity.google/" target="_blank">
     <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" height="40"/>
   </a>
