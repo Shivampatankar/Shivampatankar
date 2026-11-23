@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Patankar</h1>
-<h3 align="center">Fresher open-to-work as frontend developer,software developer,java developer,fullstack developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivampatankar&label=Profile%20views&color=0e75b6&style=flat" alt="shivampatankar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivampatankar" alt="shivampatankar" /></a> </p>
 
-- 🌱 I’m currently learning **sql**
+- 🌱 I’m currently learning **next.js**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **fullstack projects**
 
 - 💬 Ask me about **react**
 
