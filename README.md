@@ -64,8 +64,8 @@
     <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" height="40"/>
   </a>
   <a href="https://cursor.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cursor" alt="Cursor" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivampatankar&show_icons=true&locale=en&layout=compact" alt="shivampatankar" /></p>
